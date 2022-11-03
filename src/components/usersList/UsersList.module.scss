@@ -1,0 +1,10 @@
+.usersListContainer {
+  display: block;
+}
+
+.usersList {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}

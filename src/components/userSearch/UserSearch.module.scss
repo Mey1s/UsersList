@@ -1,0 +1,22 @@
+.userSearchContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 48px;
+  margin: 24px 0;
+}
+
+.addUserText {
+    cursor: pointer;
+    color: rgb(128, 128, 251);
+    border-bottom: 1px solid rgb(128, 128, 251);
+}
+
+.addUserText:hover {
+    color: rgb(0, 0, 255);
+    border-bottom: 1px solid rgb(0, 0, 255);
+}
+
+.searchBox {
+    border: 1px solid black;
+}
